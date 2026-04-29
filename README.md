@@ -16,6 +16,6 @@ python -m http.server 8000
 3. Open localhost:8000 in a browser
 
 ## Lessons Learned
-- Working with D3.js taught me how important it is to structure data correctly before building a visualization, since everything depends on how the data is organized.
+- Working with D3.js taught us how important it is to structure data correctly before building a visualization, since everything depends on how the data is organized.
 - Separating D3 code into modular files made the project easier to manage and scale as more features were added.
 - Keeping things simple in javascript/D3 files, and moving as many elements to html tags as possible made the project more organized.
