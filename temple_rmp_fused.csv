@@ -1,0 +1,627 @@
+course_id,course_title,professor_name,course_rating_from_ratings,professor_rating,course_difficulty_from_ratings,professor_avg_difficulty,course_rating_count,rmp_teacher_id,rmp_legacy_id,rmp_first_name,rmp_last_name,rmp_num_ratings,term_code,term_desc,subject,course_number
+CIS0822,Technological Horizons: Information Technology in the 21st Century,Christopher Biehl,3.867,4.2,3.2,2.7,15,VGVhY2hlci02MjE0Mjg=,621428,Christopher,Biehl,81,202603,2026 Spring,CIS,0822
+CIS0835,Cyberspace &amp; Society,Laurie E. Shteir,1.792,3.2,2.417,2.7,12,VGVhY2hlci0zNzE1ODQ=,371584,Laurie,Shteir,37,202603,2026 Spring,CIS,0835
+CIS0835,Cyberspace &amp; Society,Maria Bruccoleri,,,,,0,,,,,,202603,2026 Spring,CIS,0835
+CIS0835,Cyberspace &amp; Society,Drew A. Rosado,2.917,3.7,3.5,2.8,12,VGVhY2hlci0xNzU5NDM4,1759438,Andrew,Rosado,21,202436,2024 Fall,CIS,0835
+CIS0835,Cyberspace &amp; Society,Hani Karam,1.0,2.2,3.8,3.8,5,VGVhY2hlci0yNjcyMzY2,2672366,Hani,Karam,18,202603,2026 Spring,CIS,0835
+CIS1001,Introduction to Academics in Computer Science,Dominique Kliger,,,,,0,,,,,,202603,2026 Spring,CIS,1001
+CIS1001,Introduction to Academics in Computer Science,Madonna Nahra,,2.7,,2.7,0,VGVhY2hlci0zMTI5Mzg4,3129388,Madonna,Nahra,3,202503,2025 Spring,CIS,1001
+CIS1051,Introduction to Problem Solving and Programming in Python,Andrew B. Rosen,4.44,4.5,2.5,2.6,50,VGVhY2hlci0yMTczNDcy,2173472,Andrew,Rosen,72,202603,2026 Spring,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,Xinwen (Ellen) Zhang,,4,,2.7,0,VGVhY2hlci0yNjk4MzU0,2698354,Xiwen,Zhang,3,202436,2024 Fall,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,ELMIRA TALEBIANARAKI,,,,,0,,,,,,202436,2024 Fall,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,Laurence Liss,1.375,1.4,4.312,4.1,16,VGVhY2hlci0yNTc0Mjkz,2574293,Laurence,Liss,17,202603,2026 Spring,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,Yihan Zhang,,2.8,,3.5,0,VGVhY2hlci0yMDkwNjQ3,2090647,Yimin,Zhang,4,202436,2024 Fall,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,Vasileios Tserolas,2.733,2.9,3.2,3.1,15,VGVhY2hlci0yNzExMTc4,2711178,Vasileios,Tserolas,17,202603,2026 Spring,CIS,1051
+CIS1052,Introduction to Web Technology and Programming,Justin Y. Shi,,,,,0,,,,,,202436,2024 Fall,CIS,1052
+CIS1052,Introduction to Web Technology and Programming,Hirsa Kia,,,,,0,,,,,,202436,2024 Fall,CIS,1052
+CIS1057,Computer Programming in C,Edward T. Crotty,1.71,2.3,3.613,3.5,31,VGVhY2hlci0xNTE2NDc4,1516478,Ed,Crotty,75,202603,2026 Spring,CIS,1057
+CIS1057,Computer Programming in C,Jiyao Liu,,3.7,,3.4,0,VGVhY2hlci0yNjM5Mjkz,2639293,Jialiang,Liu,15,202436,2024 Fall,CIS,1057
+CIS1057,Computer Programming in C,Xuanzhang Liu,,4.4,,2.2,0,VGVhY2hlci0xOTIyOTMz,1922933,Xiaochun ,Liu,5,202536,2025 Fall,CIS,1057
+CIS1057,Computer Programming in C,Raymond W. Lauff,4.0,4,3.5,3.5,4,VGVhY2hlci0xNjcwMzc4,1670378,Raymond,Lauff,4,202603,2026 Spring,CIS,1057
+CIS1057,Computer Programming in C,Zhengkun Ye,,4,,3,0,VGVhY2hlci0yMzI4NjAx,2328601,Ning,Ye,1,202436,2024 Fall,CIS,1057
+CIS1057,Computer Programming in C,Hani Karam,2.818,2.2,3.818,3.8,11,VGVhY2hlci0yNjcyMzY2,2672366,Hani,Karam,18,202603,2026 Spring,CIS,1057
+CIS1068,Program Design and Abstraction,John Fiore,4.5,4.4,2.796,2.9,54,VGVhY2hlci0yNDk2OTA=,249690,John,Fiore,104,202603,2026 Spring,CIS,1068
+CIS1068,Program Design and Abstraction,Zijie Tang,,3.6,,2.8,0,VGVhY2hlci0xOTE2MzI3,1916327,Hong,Tang,12,202436,2024 Fall,CIS,1068
+CIS1068,Program Design and Abstraction,Yang Zhao,,5,,3.7,0,VGVhY2hlci0yNTYwNjE2,2560616,Yingru,Zhao,3,202503,2025 Spring,CIS,1068
+CIS1068,Program Design and Abstraction,Farnoush  Nilizadeh,,,,,0,,,,,,202603,2026 Spring,CIS,1068
+CIS1068,Program Design and Abstraction,Kurt Yang,,3.6,,2.7,0,VGVhY2hlci01NTExOTg=,551198,Wei-Shih,Yang,51,202436,2024 Fall,CIS,1068
+CIS1068,Program Design and Abstraction,Hani Karam,,2.2,,3.8,0,VGVhY2hlci0yNjcyMzY2,2672366,Hani,Karam,18,202603,2026 Spring,CIS,1068
+CIS1166,Mathematical Concepts in Computing I,Richard Beigel,1.958,1.9,3.958,3.7,24,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Farnoush  Nilizadeh,,,,,0,,,,,,202503,2025 Spring,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Abha Belorkar-Guntuku,,,,,0,,,,,,202436,2024 Fall,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Sheri Stahler,4.893,4.9,2.5,2.5,28,VGVhY2hlci0yNjU2MzUy,2656352,Sheri,Stahler,27,202603,2026 Spring,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Parsa Esmaeilkhani,,,,,0,,,,,,202436,2024 Fall,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Alex Pang,5.0,5,2.0,2.5,4,VGVhY2hlci0yODc0Nzk4,2874798,Alex,Pang,24,202536,2025 Fall,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Edward T. Crotty,2.956,2.3,3.265,3.5,34,VGVhY2hlci0xNTE2NDc4,1516478,Ed,Crotty,75,202603,2026 Spring,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Mathew Kuruvilla,,,,,0,,,,,,202436,2024 Fall,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Emily Thyrum,,4.8,,1.5,0,VGVhY2hlci0yOTQzMTQx,2943141,Emily,Thyrum,8,202436,2024 Fall,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Vasileios Tserolas,,2.9,,3.1,0,VGVhY2hlci0yNzExMTc4,2711178,Vasileios,Tserolas,17,202603,2026 Spring,CIS,1166
+CIS1966,Honors Mathematical Concepts in Computing I,Anthony Hughes,3.5,2.7,2.833,3,6,VGVhY2hlci04MDE4MzA=,801830,Anthony,Hughes,49,202436,2024 Fall,CIS,1966
+CIS1966,Honors Mathematical Concepts in Computing I,Parsa Esmaeilkhani,,,,,0,,,,,,202436,2024 Fall,CIS,1966
+CIS2033,Computational Probability and Statistics,Richard Beigel,1.814,1.9,3.771,3.7,35,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,2033
+CIS2033,Computational Probability and Statistics,Abha Belorkar-Guntuku,,,,,0,,,,,,202436,2024 Fall,CIS,2033
+CIS2033,Computational Probability and Statistics,Amin Esmaeili,1.0,1,4.0,4,1,VGVhY2hlci0zMDQ0Mjg0,3044284,Amin,Esmaeili,1,202503,2025 Spring,CIS,2033
+CIS2082,Independent Research I,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Justin Y. Shi,,,,,0,,,,,,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Dominic Letarte,,4.6,,2,0,VGVhY2hlci0yNDg3Njg0,2487684,Dominic,Letarte,5,202603,2026 Spring,CIS,2082
+CIS2082,Independent Research I,Edward T. Crotty,,2.3,,3.5,0,VGVhY2hlci0xNTE2NDc4,1516478,Ed,Crotty,75,202536,2025 Fall,CIS,2082
+CIS2107,Computer Systems and Low-Level Programming,Ola Ajaj,3.448,4,3.5,2.9,58,VGVhY2hlci0xODgzOTc3,1883977,Ola,Ajaj,125,202603,2026 Spring,CIS,2107
+CIS2107,Computer Systems and Low-Level Programming,Abdalaziz Sawwan,,,,,0,,,,,,202603,2026 Spring,CIS,2107
+CIS2107,Computer Systems and Low-Level Programming,Nasif Fahmid Prangon,,,,,0,,,,,,202603,2026 Spring,CIS,2107
+CIS2107,Computer Systems and Low-Level Programming,Pramita Pandit,,,,,0,,,,,,202436,2024 Fall,CIS,2107
+CIS2107,Computer Systems and Low-Level Programming,Farid Nakhle,5.0,4.7,3.5,3,2,VGVhY2hlci0zMDEwNDMx,3010431,Farid,Nakhle,6,202603,2026 Spring,CIS,2107
+CIS2109,Database Management Systems,Nancy Polychronopoulou,2.429,2.2,4.048,3.2,21,VGVhY2hlci0yNjg0MjUz,2684253,Nancy,Polychronopoulou,37,202603,2026 Spring,CIS,2109
+CIS2109,Database Management Systems,Kurt Yang,,3.6,,2.7,0,VGVhY2hlci01NTExOTg=,551198,Wei-Shih,Yang,51,202436,2024 Fall,CIS,2109
+CIS2109,Database Management Systems,Sourav Das,5.0,5,2.0,2.5,1,VGVhY2hlci0yODgxMzQ1,2881345,Sourav,Das,2,202503,2025 Spring,CIS,2109
+CIS2166,Mathematical Concepts in Computing II,Emily Thyrum,4.875,4.8,1.5,1.5,8,VGVhY2hlci0yOTQzMTQx,2943141,Emily,Thyrum,8,202603,2026 Spring,CIS,2166
+CIS2166,Mathematical Concepts in Computing II,Aayush Acharya,,,,,0,,,,,,202536,2025 Fall,CIS,2166
+CIS2166,Mathematical Concepts in Computing II,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202536,2025 Fall,CIS,2166
+CIS2166,Mathematical Concepts in Computing II,Tangrui Li,,3.8,,2.5,0,VGVhY2hlci0yNjg1MTYy,2685162,Cindy,Li,24,202436,2024 Fall,CIS,2166
+CIS2166,Mathematical Concepts in Computing II,Longin J. Latecki,3.275,3.2,3.15,3,20,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202536,2025 Fall,CIS,2166
+CIS2166,Mathematical Concepts in Computing II,Joao Fonseca,5.0,5,2.0,2,2,VGVhY2hlci0zMDM1NzI5,3035729,Joao,Fonseca,2,202603,2026 Spring,CIS,2166
+CIS2168,Data Structures,Shuvra Chakraborty,,4,,3,0,VGVhY2hlci0yOTM1NjU3,2935657,Shuvra,Chakraborty,5,202436,2024 Fall,CIS,2168
+CIS2168,Data Structures,Bo Jiang,,4.8,,2.2,0,VGVhY2hlci0yMDU3MDIz,2057023,Cheng,Jiang,18,202436,2024 Fall,CIS,2168
+CIS2168,Data Structures,Cindy Li,3.75,3.8,2.55,2.5,20,VGVhY2hlci0yNjg1MTYy,2685162,Cindy,Li,24,202603,2026 Spring,CIS,2168
+CIS2168,Data Structures,Jovan Andjelkovic,,,,,0,,,,,,202436,2024 Fall,CIS,2168
+CIS2168,Data Structures,David Dobor,3.111,3.3,3.889,3.4,9,VGVhY2hlci0yMjA2OTk2,2206996,David,Dobor,55,202603,2026 Spring,CIS,2168
+CIS2168,Data Structures,Daniel Saranovic,,0,,0,0,VGVhY2hlci0yODQxMDY1,2841065,Daniel,Saranovic,0,202603,2026 Spring,CIS,2168
+CIS2168,Data Structures,Rafaa Aljurbua,,,,,0,,,,,,202503,2025 Spring,CIS,2168
+CIS2168,Data Structures,Daniel Yee,4.8,4.8,2.8,2.8,5,VGVhY2hlci0yNjY4MDkx,2668091,Daniel,Yee,5,202603,2026 Spring,CIS,2168
+CIS2168,Data Structures,Farid Nakhle,,4.7,,3,0,VGVhY2hlci0zMDEwNDMx,3010431,Farid,Nakhle,6,202503,2025 Spring,CIS,2168
+CIS2229,"Architecture, Operating Systems and Networking",Claudia Pine-Simon,3.771,3.6,2.875,2.6,24,VGVhY2hlci0zNjcyMjM=,367223,Claudia,Pine-Simon,63,202603,2026 Spring,CIS,2229
+CIS3100,Special Topics in CIS,Yannick Jones,,3.3,,3.8,0,VGVhY2hlci0zMjI1Mzc=,322537,Peter,Jones,32,202536,2025 Fall,CIS,3100
+CIS3207,Introduction to Systems Programming and Operating Systems,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202536,2025 Fall,CIS,3207
+CIS3207,Introduction to Systems Programming and Operating Systems,Tamer Aldwairi,4.857,5,3.0,2.9,14,VGVhY2hlci0yNjE5Mzky,2619392,Tamer,Aldwairi,17,202603,2026 Spring,CIS,3207
+CIS3207,Introduction to Systems Programming and Operating Systems,Farid Nakhle,4.2,4.7,3.2,3,5,VGVhY2hlci0zMDEwNDMx,3010431,Farid,Nakhle,6,202603,2026 Spring,CIS,3207
+CIS3217,Computer Architecture,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202536,2025 Fall,CIS,3217
+CIS3223,Data Structures and Algorithms,Anthony Hughes,1.696,2.7,3.565,3,23,VGVhY2hlci04MDE4MzA=,801830,Anthony,Hughes,49,202603,2026 Spring,CIS,3223
+CIS3223,Data Structures and Algorithms,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202436,2024 Fall,CIS,3223
+CIS3281,Cooperative Education Experience in Information Science &amp; Technology,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202536,2025 Fall,CIS,3281
+CIS3296,Software Design,Dominic Letarte,4.6,4.6,2.0,2,5,VGVhY2hlci0yNDg3Njg0,2487684,Dominic,Letarte,5,202603,2026 Spring,CIS,3296
+CIS3296,Software Design,Abhudaya Shrivastava,,,,,0,,,,,,202603,2026 Spring,CIS,3296
+CIS3296,Software Design,Hussain Otudi,,,,,0,,,,,,202503,2025 Spring,CIS,3296
+CIS3296,Software Design,Shuvra Chakraborty,,4,,3,0,VGVhY2hlci0yOTM1NjU3,2935657,Shuvra,Chakraborty,5,202436,2024 Fall,CIS,3296
+CIS3296,Software Design,Ian T. Applebaum,2.0,4.1,2.75,2.5,4,VGVhY2hlci0yODQwOTY4,2840968,Ian,Applebaum,16,202536,2025 Fall,CIS,3296
+CIS3296,Software Design,Thanh P. Nguyen,,5,,1.4,0,VGVhY2hlci0zMDQyMTIx,3042121,Thanh,Nguyen,5,202503,2025 Spring,CIS,3296
+CIS3296,Software Design,Farid Nakhle,,4.7,,3,0,VGVhY2hlci0zMDEwNDMx,3010431,Farid,Nakhle,6,202603,2026 Spring,CIS,3296
+CIS3308,Web Application Programming,Sally Kyvernitis,3.25,3.3,3.875,3.1,8,VGVhY2hlci0xMDc0MjQw,1074240,Sally,Kyvernitis,42,202603,2026 Spring,CIS,3308
+CIS3308,Web Application Programming,Farid Nakhle,,4.7,,3,0,VGVhY2hlci0zMDEwNDMx,3010431,Farid,Nakhle,6,202603,2026 Spring,CIS,3308
+CIS3309,Component-Based Software Design,Christopher M. Pascucci,2.615,3.5,4.154,3.7,13,VGVhY2hlci05OTUwNDI=,995042,Christopher,Pascucci,104,202603,2026 Spring,CIS,3309
+CIS3309,Component-Based Software Design,Youyuan Liu,,3.7,,3.4,0,VGVhY2hlci0yNjM5Mjkz,2639293,Jialiang,Liu,15,202503,2025 Spring,CIS,3309
+CIS3319,Wireless Networks and Security,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202536,2025 Fall,CIS,3319
+CIS3319,Wireless Networks and Security,Jiyao Liu,,3.7,,3.4,0,VGVhY2hlci0yNjM5Mjkz,2639293,Jialiang,Liu,15,202436,2024 Fall,CIS,3319
+CIS3329,Network Architectures,Claudia Pine-Simon,4.667,3.6,2.667,2.6,3,VGVhY2hlci0zNjcyMjM=,367223,Claudia,Pine-Simon,63,202603,2026 Spring,CIS,3329
+CIS3342,Server-Side Web Application Development,Christopher M. Pascucci,3.389,3.5,4.259,3.7,27,VGVhY2hlci05OTUwNDI=,995042,Christopher,Pascucci,104,202603,2026 Spring,CIS,3342
+CIS3342,Server-Side Web Application Development,Nadia Niknami,,,,,0,,,,,,202436,2024 Fall,CIS,3342
+CIS3344,Client-Side Scripting for the Web,Sally Kyvernitis,2.941,3.3,3.176,3.1,17,VGVhY2hlci0xMDc0MjQw,1074240,Sally,Kyvernitis,42,202603,2026 Spring,CIS,3344
+CIS3344,Client-Side Scripting for the Web,Mounika R. Hospet,,,,,0,,,,,,202503,2025 Spring,CIS,3344
+CIS3381,Cooperative Education Experience in Computer Science,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202536,2025 Fall,CIS,3381
+CIS3381,Cooperative Education Experience in Computer Science,Hani Karam,,2.2,,3.8,0,VGVhY2hlci0yNjcyMzY2,2672366,Hani,Karam,18,202603,2026 Spring,CIS,3381
+CIS3441,Software Security,Derek Fisher,4.25,4.5,1.0,1.2,4,VGVhY2hlci0yNjM0NDEw,2634410,Derek,Fisher,6,202603,2026 Spring,CIS,3441
+CIS3515,Introduction to Mobile Application Development,Karl Morris,3.722,3.6,3.611,3.3,18,VGVhY2hlci0xOTIyNzQ0,1922744,Karl,Morris,29,202603,2026 Spring,CIS,3515
+CIS3515,Introduction to Mobile Application Development,Zhengkun Ye,,4,,3,0,VGVhY2hlci0yMzI4NjAx,2328601,Ning,Ye,1,202503,2025 Spring,CIS,3515
+CIS3515,Introduction to Mobile Application Development,Mohammad Erfan Mowlaei,,,,,0,,,,,,202436,2024 Fall,CIS,3515
+CIS3603,User Experience Design,Kyle Romain,3.125,3.1,2.25,2.3,8,VGVhY2hlci0yODMyNzMx,2832731,Kyle,Romain,8,202603,2026 Spring,CIS,3603
+CIS3603,User Experience Design,Ryan Burke,,0,,0,0,VGVhY2hlci0zMTYyMTE3,3162117,Ryan,Burke,0,202603,2026 Spring,CIS,3603
+CIS3605,Introduction to Digital Forensics,Mary G. Giraldo,2.571,2.6,2.286,2.3,7,VGVhY2hlci0yNjIyNzky,2622792,Mary Grace,Giraldo,7,202436,2024 Fall,CIS,3605
+CIS3775,Information Technology Project Management,Christopher R. Kane,,5,,1,0,VGVhY2hlci0yNzg5MzAw,2789300,Codie,Kane,1,202536,2025 Fall,CIS,3775
+CIS3775,Information Technology Project Management,Robert Spielberger,,4.2,,2.4,0,VGVhY2hlci0yMDU2NTkz,2056593,Robert,Spielberger ,5,202536,2025 Fall,CIS,3775
+CIS4105,Information Technology Process Management,Vana Khurana,1.667,1.4,3.333,2.6,3,VGVhY2hlci0yNTM3MDE5,2537019,Vana,Khurana,5,202536,2025 Fall,CIS,4105
+CIS4282,Independent Study,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202536,2025 Fall,CIS,4282
+CIS4282,Independent Study,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Alex Pang,,5,,2.5,0,VGVhY2hlci0yODc0Nzk4,2874798,Alex,Pang,24,202536,2025 Fall,CIS,4282
+CIS4282,Independent Study,Dominic Letarte,,4.6,,2,0,VGVhY2hlci0yNDg3Njg0,2487684,Dominic,Letarte,5,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Karl Morris,,3.6,,3.3,0,VGVhY2hlci0xOTIyNzQ0,1922744,Karl,Morris,29,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Christopher M. Pascucci,,3.5,,3.7,0,VGVhY2hlci05OTUwNDI=,995042,Christopher,Pascucci,104,202536,2025 Fall,CIS,4282
+CIS4296,Information Systems Analysis and Design,Jeet Shah,5.0,5,1.0,1,1,VGVhY2hlci0zMTYzOTA4,3163908,Jeet,Shah,1,202603,2026 Spring,CIS,4296
+CIS4296,Information Systems Analysis and Design,Tejas B. Patel,,4.8,,2,0,VGVhY2hlci0xNzQ0MDg3,1744087,Tejash,Patel,3,202536,2025 Fall,CIS,4296
+CIS4330,Current Topics in Information Science &amp; Technology,Carl Williams,3.8,3.7,2.2,2.4,5,VGVhY2hlci0yNzA1NTA2,2705506,Carl,Williams,9,202603,2026 Spring,CIS,4330
+CIS4330,Current Topics in Information Science &amp; Technology,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,4330
+CIS4330,Current Topics in Information Science &amp; Technology,Sarah M. Lehman,,4.6,,2.5,0,VGVhY2hlci01NDM1ODA=,543580,Daniel,Lehman,10,202436,2024 Fall,CIS,4330
+CIS4330,Current Topics in Information Science &amp; Technology,Ayodele K. Duyile,,,,,0,,,,,,202603,2026 Spring,CIS,4330
+CIS4331,Principles of Database Systems,Cindy Li,3.0,3.8,3.0,2.5,1,VGVhY2hlci0yNjg1MTYy,2685162,Cindy,Li,24,202603,2026 Spring,CIS,4331
+CIS4345,Introduction to Cloud Computing,Ola Ajaj,1.0,4,3.0,2.9,1,VGVhY2hlci0xODgzOTc3,1883977,Ola,Ajaj,125,202436,2024 Fall,CIS,4345
+CIS4360,Seminar on Topics in Computer Science,Carl Williams,3.5,3.7,2.75,2.4,4,VGVhY2hlci0yNzA1NTA2,2705506,Carl,Williams,9,202603,2026 Spring,CIS,4360
+CIS4360,Seminar on Topics in Computer Science,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,4360
+CIS4360,Topics in Computer Science,Alex Pang,5.0,5,3.667,2.5,3,VGVhY2hlci0yODc0Nzk4,2874798,Alex,Pang,24,202603,2026 Spring,CIS,4360
+CIS4360,Seminar on Topics in Computer Science,Sarah M. Lehman,,4.6,,2.5,0,VGVhY2hlci01NDM1ODA=,543580,Daniel,Lehman,10,202436,2024 Fall,CIS,4360
+CIS4382,Independent Study,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,4382
+CIS4382,Independent Study,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,4382
+CIS4396,Information Systems Implementation,Sheila Bishop,,,,,0,,,,,,202603,2026 Spring,CIS,4396
+CIS4396,Information Systems Implementation,Anthony Briglia,,,,,0,,,,,,202603,2026 Spring,CIS,4396
+CIS4396,Information Systems Implementation,Robert J. Zahorchak,,,,,0,,,,,,202603,2026 Spring,CIS,4396
+CIS4397,Independent Research in Computer Science,John Fiore,,4.4,,2.9,0,VGVhY2hlci0yNDk2OTA=,249690,John,Fiore,104,202603,2026 Spring,CIS,4397
+CIS4398,Projects in Computer Science,Kyle D. Lee,,4,,2.3,0,VGVhY2hlci0yNTgxMzQ0,2581344,Katie,Lee,3,202536,2025 Fall,CIS,4398
+CIS4398,Projects in Computer Science,Ian T. Applebaum,4.75,4.1,2.417,2.5,12,VGVhY2hlci0yODQwOTY4,2840968,Ian,Applebaum,16,202603,2026 Spring,CIS,4398
+CIS4398,Projects in Computer Science,Thanh P. Nguyen,,5,,1.4,0,VGVhY2hlci0zMDQyMTIx,3042121,Thanh,Nguyen,5,202603,2026 Spring,CIS,4398
+CIS4398,Projects in Computer Science,Tamer Aldwairi,5.0,5,2.0,2.9,1,VGVhY2hlci0yNjE5Mzky,2619392,Tamer,Aldwairi,17,202603,2026 Spring,CIS,4398
+CIS4398,Projects in Computer Science,Sanchari Biswas,,4,,3,0,VGVhY2hlci0yODE3MzU5,2817359,Sanchari,Biswas,1,202436,2024 Fall,CIS,4398
+CIS4419,Securing the Internet of Things,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202536,2025 Fall,CIS,4419
+CIS4517,Data-Intensive and Cloud Computing,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,4517
+CIS4526,Foundations of Machine Learning,Alex Pang,5.0,5,2.667,2.5,6,VGVhY2hlci0yODc0Nzk4,2874798,Alex,Pang,24,202603,2026 Spring,CIS,4526
+CIS4615,Ethical Hacking and Intrusion Forensics,Jody-Ann K. Forrester-Small,,,,,0,,,,,,202436,2024 Fall,CIS,4615
+CIS5002,Database Design &amp; Programming,Nancy Polychronopoulou,,2.2,,3.2,0,VGVhY2hlci0yNjg0MjUz,2684253,Nancy,Polychronopoulou,37,202536,2025 Fall,CIS,5002
+CIS5011,Programming and Data Structure,Anthony Hughes,,2.7,,3,0,VGVhY2hlci04MDE4MzA=,801830,Anthony,Hughes,49,202603,2026 Spring,CIS,5011
+CIS5015,Scripting for Sciences and Business,Justin Y. Shi,,,,,0,,,,,,202603,2026 Spring,CIS,5015
+CIS5016,Data Structures and Objects,Andrew B. Rosen,,4.5,,2.6,0,VGVhY2hlci0yMTczNDcy,2173472,Andrew,Rosen,72,202536,2025 Fall,CIS,5016
+CIS5105,IT Process Management,Vana Khurana,,1.4,,2.6,0,VGVhY2hlci0yNTM3MDE5,2537019,Vana,Khurana,5,202536,2025 Fall,CIS,5105
+CIS5208,Knowledge Management,Keith M. Brand,,,,,0,,,,,,202436,2024 Fall,CIS,5208
+CIS5210,Software Security,Derek Fisher,,4.5,,1.2,0,VGVhY2hlci0yNjM0NDEw,2634410,Derek,Fisher,6,202603,2026 Spring,CIS,5210
+CIS5304,Network Technologies,Keith M. Brand,,,,,0,,,,,,202436,2024 Fall,CIS,5304
+CIS5405,Introduction to Digital Forensics,Mary G. Giraldo,,2.6,,2.3,0,VGVhY2hlci0yNjIyNzky,2622792,Mary Grace,Giraldo,7,202436,2024 Fall,CIS,5405
+CIS5413,Introduction to Privacy and Security for Internet-of-Things,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202536,2025 Fall,CIS,5413
+CIS5415,Ethical Hacking and Intrusion Forensics,Jody-Ann K. Forrester-Small,,,,,0,,,,,,202536,2025 Fall,CIS,5415
+CIS5511,Programming Techniques,Pei Wang,3.0,2.4,3.0,3.4,2,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202536,2025 Fall,CIS,5511
+CIS5512,Operating Systems,Justin Y. Shi,,,,,0,,,,,,202536,2025 Fall,CIS,5512
+CIS5516,Principles of Data Management,Eduard C. Dragut,3.75,3.7,2.5,3.2,4,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202536,2025 Fall,CIS,5516
+CIS5517,Data-Intensive and Cloud Computing,Xubin He,,,,,0,,,,,,202536,2025 Fall,CIS,5517
+CIS5525,Neural Computation,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202536,2025 Fall,CIS,5525
+CIS5526,Machine Learning,Slobodan Vucetic,5.0,4,3.0,3.8,2,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202536,2025 Fall,CIS,5526
+CIS5526,Machine Learning,Jovan Andjelkovic,,,,,0,,,,,,202436,2024 Fall,CIS,5526
+CIS5590,Topics in Computer Science,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202536,2025 Fall,CIS,5590
+CIS5590,Topics in Computer Science,Stephen MacNeil,5.0,5,4.0,3.8,1,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202536,2025 Fall,CIS,5590
+CIS5603,Artificial Intelligence,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202536,2025 Fall,CIS,5603
+CIS5701,Introduction to Teaching Computer Science Principles,Michael Engel,,0,,0,0,VGVhY2hlci0yMTE5OTMz,2119933,Kimberly,Engel,0,202436,2024 Fall,CIS,5701
+CIS9182,Independent Study,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202536,2025 Fall,CIS,9182
+CIS9182,Independent Study,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Mary G. Giraldo,,2.6,,2.3,0,VGVhY2hlci0yNjIyNzky,2622792,Mary Grace,Giraldo,7,202603,2026 Spring,CIS,9182
+CIS9282,Independent Study,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9282
+CIS9282,Independent Study,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,9282
+CIS9991,Master&#39;s Research Projects,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9991
+CIS9991,Master&#39;s Research Projects,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,9991
+CIS9994,Preliminary Examination Preparation,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,9994
+CIS9994,Preliminary Examination Preparation,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,9994
+CIS9995,Capstone Project,Jody-Ann K. Forrester-Small,,,,,0,,,,,,202603,2026 Spring,CIS,9995
+CIS9995,Capstone Project,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202436,2024 Fall,CIS,9995
+CIS9996,Master&#39;s Thesis Research,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9996
+CIS9996,Master&#39;s Thesis Research,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,9996
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9998
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,9998
+CIS9999,Dissertation Research,Justin Y. Shi,,,,,0,,,,,,202436,2024 Fall,CIS,9999
+CIS9999,Dissertation Research,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,9999
+CIS9999,Dissertation Research,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,9999
+CIS0835,Cyberspace &amp; Society,Christopher M. Hayner,,,,,0,,,,,,202503,2025 Spring,CIS,0835
+CIS0835,Cyberspace &amp; Society,A.J. Harnak,2.0,4.5,2.0,3,1,VGVhY2hlci0yMDU5Nzg3,2059787,Andrew,Harnak,1,202603,2026 Spring,CIS,0835
+CIS1051,Introduction to Problem Solving and Programming in Python,Parsa Esmaeilkhani,,,,,0,,,,,,202603,2026 Spring,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,Rahad Arman Nabid,,,,,0,,,,,,202503,2025 Spring,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,Andrea Gallegati,,,,,0,,,,,,202503,2025 Spring,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,Dario Abbondanza,,,,,0,,,,,,202603,2026 Spring,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,Indra Priyadarsini,,,,,0,,,,,,202603,2026 Spring,CIS,1051
+CIS1057,Computer Programming in C,Pramita Pandit,,,,,0,,,,,,202603,2026 Spring,CIS,1057
+CIS1057,Computer Programming in C,Thanh P. Nguyen,5.0,5,1.5,1.4,4,VGVhY2hlci0zMDQyMTIx,3042121,Thanh,Nguyen,5,202603,2026 Spring,CIS,1057
+CIS1057,Computer Programming in C,Zhuoan Zhou,,0,,0,0,VGVhY2hlci0yNDYyNjcw,2462670,Chen,Zhou,0,202536,2025 Fall,CIS,1057
+CIS1057,Computer Programming in C,Emily Thyrum,4.0,4.8,2.0,1.5,1,VGVhY2hlci0yOTQzMTQx,2943141,Emily,Thyrum,8,202503,2025 Spring,CIS,1057
+CIS1057,Computer Programming in C,James Howes IV,,0,,0,0,VGVhY2hlci0zMTE4NTAz,3118503,James,IV,0,202603,2026 Spring,CIS,1057
+CIS1068,Program Design and Abstraction,Hirsa Kia,,,,,0,,,,,,202503,2025 Spring,CIS,1068
+CIS1068,Program Design and Abstraction,Amir (Amirhossein) Baghghalaghdampour,,,,,0,,,,,,202503,2025 Spring,CIS,1068
+CIS1068,Program Design and Abstraction,Yasmin mohammadi,,,,,0,,,,,,202503,2025 Spring,CIS,1068
+CIS1068,Program Design and Abstraction,Cindy Zastudil,,,,,0,,,,,,202503,2025 Spring,CIS,1068
+CIS1166,Mathematical Concepts in Computing I,Nancy Polychronopoulou,,2.2,,3.2,0,VGVhY2hlci0yNjg0MjUz,2684253,Nancy,Polychronopoulou,37,202503,2025 Spring,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Sai Shi,,3.2,,3.7,0,VGVhY2hlci0xMDMxNTA4,1031508,Justin Yuan,Shi,29,202503,2025 Spring,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Mau Hernandes,,0,,0,0,VGVhY2hlci0zMTYzMjQw,3163240,Mau,Hernandes,0,202603,2026 Spring,CIS,1166
+CIS1968,Honors Program Design and Abstraction,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202503,2025 Spring,CIS,1968
+CIS1968,Honors Program Design and Abstraction,Farnoush  Nilizadeh,,,,,0,,,,,,202503,2025 Spring,CIS,1968
+CIS2004,Sci+Tech Scholars Seminar,Byron Jenkins,,3,,2.3,0,VGVhY2hlci01ODg3NA==,58874,Wilbert,Jenkins,108,202603,2026 Spring,CIS,2004
+CIS2004,Sci+Tech Scholars Seminar,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,2004
+CIS2033,Computational Probability and Statistics,Anduo Wang,1.333,1.5,5.0,4.9,12,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,2033
+CIS2033,Computational Probability and Statistics,Corrine Schwier,,0,,0,0,VGVhY2hlci0zMTYzMjM5,3163239,Nicholas,Schwier,0,202503,2025 Spring,CIS,2033
+CIS2082,Independent Research I,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,2082
+CIS2107,Computer Systems and Low-Level Programming,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,2107
+CIS2107,Computer Systems and Low-Level Programming,Bo Jiang,,4.8,,2.2,0,VGVhY2hlci0yMDU3MDIz,2057023,Cheng,Jiang,18,202603,2026 Spring,CIS,2107
+CIS2107,Computer Systems and Low-Level Programming,Xubin He,,,,,0,,,,,,202503,2025 Spring,CIS,2107
+CIS2166,Mathematical Concepts in Computing II,Sanobar Rustamova,,,,,0,,,,,,202603,2026 Spring,CIS,2166
+CIS2166,Mathematical Concepts in Computing II,David Dobor,3.158,3.3,3.368,3.4,38,VGVhY2hlci0yMjA2OTk2,2206996,David,Dobor,55,202603,2026 Spring,CIS,2166
+CIS2168,Data Structures,Andrew B. Rosen,4.8,4.5,2.533,2.6,15,VGVhY2hlci0yMTczNDcy,2173472,Andrew,Rosen,72,202603,2026 Spring,CIS,2168
+CIS2168,Data Structures,James Howes IV,,0,,0,0,VGVhY2hlci0zMTE4NTAz,3118503,James,IV,0,202603,2026 Spring,CIS,2168
+CIS3100,Special Topics in CIS,Amir Mohajer,,,,,0,,,,,,202503,2025 Spring,CIS,3100
+CIS3191,Independent Research II,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,3191
+CIS3191,Independent Research II,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Justin Y. Shi,,,,,0,,,,,,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Sally Kyvernitis,,3.3,,3.1,0,VGVhY2hlci0xMDc0MjQw,1074240,Sally,Kyvernitis,42,202603,2026 Spring,CIS,3191
+CIS3191,Independent Research II,Dominic Letarte,,4.6,,2,0,VGVhY2hlci0yNDg3Njg0,2487684,Dominic,Letarte,5,202603,2026 Spring,CIS,3191
+CIS3207,Introduction to Systems Programming and Operating Systems,Justin Y. Shi,,,,,0,,,,,,202603,2026 Spring,CIS,3207
+CIS3207,Introduction to Systems Programming and Operating Systems,Raymond Wu,,2,,3.9,0,VGVhY2hlci00NzAwNDA=,470040,Wei,Wu,88,202503,2025 Spring,CIS,3207
+CIS3211,"Automata, Computability, and Languages",Anthony Hughes,,2.7,,3,0,VGVhY2hlci04MDE4MzA=,801830,Anthony,Hughes,49,202603,2026 Spring,CIS,3211
+CIS3211,"Automata, Computability, and Languages",Fangping Lan,,,,,0,,,,,,202603,2026 Spring,CIS,3211
+CIS3281,Cooperative Education Experience in Information Science &amp; Technology,John Fiore,,4.4,,2.9,0,VGVhY2hlci0yNDk2OTA=,249690,John,Fiore,104,202603,2026 Spring,CIS,3281
+CIS3296,Software Design,Jovan Andjelkovic,,,,,0,,,,,,202503,2025 Spring,CIS,3296
+CIS3296,Software Design,Emily Thyrum,,4.8,,1.5,0,VGVhY2hlci0yOTQzMTQx,2943141,Emily,Thyrum,8,202503,2025 Spring,CIS,3296
+CIS3296,Software Design,Mounika R. Hospet,,,,,0,,,,,,202603,2026 Spring,CIS,3296
+CIS3296,Software Design,Raymond Wu,,2,,3.9,0,VGVhY2hlci00NzAwNDA=,470040,Wei,Wu,88,202503,2025 Spring,CIS,3296
+CIS3319,Wireless Networks and Security,Nan Wang,,4.9,,1.8,0,VGVhY2hlci0yMzM4MjA4,2338208,Wei,Wang,29,202503,2025 Spring,CIS,3319
+CIS3319,Wireless Networks and Security,Chiu C. Tan,5.0,5,3.0,3,1,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,3319
+CIS3329,Network Architectures,Carl Williams,,3.7,,2.4,0,VGVhY2hlci0yNzA1NTA2,2705506,Carl,Williams,9,202603,2026 Spring,CIS,3329
+CIS3329,Network Architectures,Nan Wang,,4.9,,1.8,0,VGVhY2hlci0yMzM4MjA4,2338208,Wei,Wang,29,202503,2025 Spring,CIS,3329
+CIS3342,Server-Side Web Application Development,Cindy Zastudil,,,,,0,,,,,,202503,2025 Spring,CIS,3342
+CIS3374,Quality Assurance &amp; Testing,Christopher R. Kane,,5,,1,0,VGVhY2hlci0yNzg5MzAw,2789300,Codie,Kane,1,202603,2026 Spring,CIS,3374
+CIS3374,Quality Assurance &amp; Testing,Robert Spielberger,4.2,4.2,2.4,2.4,5,VGVhY2hlci0yMDU2NTkz,2056593,Robert,Spielberger ,5,202603,2026 Spring,CIS,3374
+CIS3381,Cooperative Education Experience in Computer Science,John Fiore,,4.4,,2.9,0,VGVhY2hlci0yNDk2OTA=,249690,John,Fiore,104,202603,2026 Spring,CIS,3381
+CIS3605,Introduction to Digital Forensics,Shuvra Chakraborty,,4,,3,0,VGVhY2hlci0yOTM1NjU3,2935657,Shuvra,Chakraborty,5,202603,2026 Spring,CIS,3605
+CIS3715,Principles of Data Science,Hongchang Gao,3.6,3.6,3.0,3,5,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,3715
+CIS3715,Principles of Data Science,Yihan Zhang,,2.8,,3.5,0,VGVhY2hlci0yMDkwNjQ3,2090647,Yimin,Zhang,4,202603,2026 Spring,CIS,3715
+CIS3715,Principles of Data Science,Sai Shi,,3.2,,3.7,0,VGVhY2hlci0xMDMxNTA4,1031508,Justin Yuan,Shi,29,202503,2025 Spring,CIS,3715
+CIS3755,Introduction to Information Visualization,Stephen MacNeil,5.0,5,3.5,3.8,2,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,3755
+CIS3775,Information Technology Project Management,Shuaib Awan,,,,,0,,,,,,202603,2026 Spring,CIS,3775
+CIS4083,Directed Reading/Study,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Gene Kwatny,,0,,0,0,VGVhY2hlci0zMDA1MTAx,3005101,Gene,Kwatny,0,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Richard Beigel,,1.9,,3.7,0,VGVhY2hlci04MTA3NDE=,810741,Richard,Beigel,81,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Yuzhou Chen,,3,,1,0,VGVhY2hlci0yMjA5Njgx,2209681,Yiling,Chen,1,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Xubin He,,,,,0,,,,,,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Richard Souvenir,,1.9,,4.9,0,VGVhY2hlci0yMzI4MTYx,2328161,Richard,Souvenir,14,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Anduo Wang,,1.5,,4.9,0,VGVhY2hlci0yNDQ5Mjg5,2449289,Anduo,Wang,15,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Yan Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Yu Wang,,1.7,,4.3,0,VGVhY2hlci0yNTA4MTE4,2508118,Yang,Wang,12,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Jie Wu,,0,,0,0,VGVhY2hlci0yODI5MDY4,2829068,Jie,Wu,0,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Kai Zhang,,1,,4.4,0,VGVhY2hlci0yNDQ4NDEw,2448410,Kai,Zhang,5,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Sally Kyvernitis,,3.3,,3.1,0,VGVhY2hlci0xMDc0MjQw,1074240,Sally,Kyvernitis,42,202603,2026 Spring,CIS,4083
+CIS4083,Directed Reading/Study,Dominic Letarte,,4.6,,2,0,VGVhY2hlci0yNDg3Njg0,2487684,Dominic,Letarte,5,202603,2026 Spring,CIS,4083
+CIS4282,Independent Study,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,4282
+CIS4282,Independent Study,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Justin Y. Shi,,,,,0,,,,,,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Ola Ajaj,,4,,2.9,0,VGVhY2hlci0xODgzOTc3,1883977,Ola,Ajaj,125,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,John Fiore,,4.4,,2.9,0,VGVhY2hlci0yNDk2OTA=,249690,John,Fiore,104,202603,2026 Spring,CIS,4282
+CIS4282,Independent Study,Jumanah Alshehri,,5,,2.4,0,VGVhY2hlci0yOTI4MzQ5,2928349,Jumanah ,Alshehri,7,202503,2025 Spring,CIS,4282
+CIS4282,Independent Study,Claudia Pine-Simon,,3.6,,2.6,0,VGVhY2hlci0zNjcyMjM=,367223,Claudia,Pine-Simon,63,202603,2026 Spring,CIS,4282
+CIS4345,Introduction to Cloud Computing,Sonny J. Chang,,2.4,,3.3,0,VGVhY2hlci04NTM5OTk=,853999,Isabelle,Chang,81,202603,2026 Spring,CIS,4345
+CIS4360,Seminar on Topics in Computer Science,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,4360
+CIS4378,Computer and Network Security,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202503,2025 Spring,CIS,4378
+CIS4378,Computer and Network Security,Zijie Tang,,3.6,,2.8,0,VGVhY2hlci0xOTE2MzI3,1916327,Hong,Tang,12,202536,2025 Fall,CIS,4378
+CIS4382,Independent Study,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,4382
+CIS4398,Projects in Computer Science,Tangrui Li,,3.8,,2.5,0,VGVhY2hlci0yNjg1MTYy,2685162,Cindy,Li,24,202603,2026 Spring,CIS,4398
+CIS4398,Projects in Computer Science,Karl Morris,,3.6,,3.3,0,VGVhY2hlci0xOTIyNzQ0,1922744,Karl,Morris,29,202603,2026 Spring,CIS,4398
+CIS4398,Projects in Computer Science,Yasmin mohammadi,,,,,0,,,,,,202503,2025 Spring,CIS,4398
+CIS4398,Projects in Computer Science,Amit Khare,,,,,0,,,,,,202603,2026 Spring,CIS,4398
+CIS4496,Projects in Data Science,Abha Belorkar-Guntuku,,,,,0,,,,,,202503,2025 Spring,CIS,4496
+CIS4496,Projects in Data Science,Rahad Arman Nabid,,,,,0,,,,,,202503,2025 Spring,CIS,4496
+CIS4515,Advanced Mobile Application Development,Karl Morris,,3.6,,3.3,0,VGVhY2hlci0xOTIyNzQ0,1922744,Karl,Morris,29,202603,2026 Spring,CIS,4515
+CIS4515,Advanced Mobile Application Development,Zhengkun Ye,,4,,3,0,VGVhY2hlci0yMzI4NjAx,2328601,Ning,Ye,1,202503,2025 Spring,CIS,4515
+CIS4517,Data-Intensive and Cloud Computing,Eduard C. Dragut,1.0,3.7,5.0,3.2,1,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202503,2025 Spring,CIS,4517
+CIS4524,Analysis and Modeling of Social and Information Networks,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202503,2025 Spring,CIS,4524
+CIS4526,Foundations of Machine Learning,Joao Fonseca,,5,,2,0,VGVhY2hlci0zMDM1NzI5,3035729,Joao,Fonseca,2,202603,2026 Spring,CIS,4526
+CIS4615,Ethical Hacking and Intrusion Forensics,Sonny J. Chang,,2.4,,3.3,0,VGVhY2hlci04NTM5OTk=,853999,Isabelle,Chang,81,202503,2025 Spring,CIS,4615
+CIS5012,System Software and Operating Systems,Justin Y. Shi,,,,,0,,,,,,202603,2026 Spring,CIS,5012
+CIS5017,Operating Systems and Architecture,Keith M. Brand,,,,,0,,,,,,202503,2025 Spring,CIS,5017
+CIS5107,Computer Systems Security and Privacy,Keith M. Brand,,,,,0,,,,,,202503,2025 Spring,CIS,5107
+CIS5210,Wireless Security,Chiu C. Tan,,5,,3,0,VGVhY2hlci0yMDA1OTk0,2005994,Chiu,Tan,1,202603,2026 Spring,CIS,5210
+CIS5210,Seminar in Information Science and Technology,Jody-Ann K. Forrester-Small,,,,,0,,,,,,202503,2025 Spring,CIS,5210
+CIS5210,Seminar in Information Science and Technology,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202503,2025 Spring,CIS,5210
+CIS5210,Applied Machine Learning,Tamer Aldwairi,,5,,2.9,0,VGVhY2hlci0yNjE5Mzky,2619392,Tamer,Aldwairi,17,202603,2026 Spring,CIS,5210
+CIS5274,Software Quality Assurance and Testing,Robert Spielberger,,4.2,,2.4,0,VGVhY2hlci0yMDU2NTkz,2056593,Robert,Spielberger ,5,202503,2025 Spring,CIS,5274
+CIS5275,Software Project Management,Shuaib Awan,,,,,0,,,,,,202603,2026 Spring,CIS,5275
+CIS5306,Software Engineering,Ayodele K. Duyile,,,,,0,,,,,,202603,2026 Spring,CIS,5306
+CIS5405,Introduction to Digital Forensics,Shuvra Chakraborty,,4,,3,0,VGVhY2hlci0yOTM1NjU3,2935657,Shuvra,Chakraborty,5,202603,2026 Spring,CIS,5405
+CIS5415,Ethical Hacking and Intrusion Forensics,Sonny J. Chang,,2.4,,3.3,0,VGVhY2hlci04NTM5OTk=,853999,Isabelle,Chang,81,202503,2025 Spring,CIS,5415
+CIS5515,Design and Analysis of Algorithms,Alex Pang,5.0,5,1.0,2.5,2,VGVhY2hlci0yODc0Nzk4,2874798,Alex,Pang,24,202603,2026 Spring,CIS,5515
+CIS5517,Data-Intensive and Cloud Computing,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202503,2025 Spring,CIS,5517
+CIS5524,Analysis and Modeling of Social and Information Networks,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202503,2025 Spring,CIS,5524
+CIS5528,Predictive Modeling in Biomedicine,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,5528
+CIS5590,Topics in Computer Science,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,5590
+CIS5618,Energy Management in Data Centers and Beyond,Krishna Kant,,1.9,,4.9,0,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202503,2025 Spring,CIS,5618
+CIS9182,Independent Study,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,9182
+CIS9182,Independent Study,Justin Y. Shi,,,,,0,,,,,,202603,2026 Spring,CIS,9182
+CIS9182,Independent Study,Anthony Hughes,,2.7,,3,0,VGVhY2hlci04MDE4MzA=,801830,Anthony,Hughes,49,202603,2026 Spring,CIS,9182
+CIS9991,Master&#39;s Research Projects,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,9991
+CIS9994,Preliminary Examination Preparation,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,9994
+CIS9995,Capstone Project,Alex Pang,,5,,2.5,0,VGVhY2hlci0yODc0Nzk4,2874798,Alex,Pang,24,202603,2026 Spring,CIS,9995
+CIS9995,Capstone Project,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202503,2025 Spring,CIS,9995
+CIS9995,Capstone Project,Stephen MacNeil,,5,,3.8,0,VGVhY2hlci0yNzk2NTUy,2796552,Stephen,MacNeil,6,202603,2026 Spring,CIS,9995
+CIS9995,Capstone Project,Justin Y. Shi,,,,,0,,,,,,202536,2025 Fall,CIS,9995
+CIS9995,Capstone Project,Slobodan Vucetic,,4,,3.8,0,VGVhY2hlci0xMDgwMzY3,1080367,Slobodan,Vucetic,9,202603,2026 Spring,CIS,9995
+CIS9995,Capstone Project,Sian Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,9995
+CIS9996,Master&#39;s Thesis Research,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,9996
+CIS9998,Pre-Dissertation Research / Elevation to Candidacy,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,9998
+CIS9999,Dissertation Research,Jamie Payton,,,,,0,,,,,,202503,2025 Spring,CIS,9999
+CIS9999,Dissertation Research,Wenpeng Yin,,1,,3,0,VGVhY2hlci0yMzI4NTUx,2328551,Jie,Yin,1,202603,2026 Spring,CIS,9999
+CIS0835,Cyberspace &amp; Society,Sarah M. Lehman,,4.6,,2.5,0,VGVhY2hlci01NDM1ODA=,543580,Daniel,Lehman,10,202536,2025 Fall,CIS,0835
+CIS1001,Introduction to Academics in Computer Science,Jeremiah Blanchard,,,,,0,,,,,,202536,2025 Fall,CIS,1001
+CIS1001,Introduction to Academics in Computer Science,Farid Nakhle,,4.7,,3,0,VGVhY2hlci0zMDEwNDMx,3010431,Farid,Nakhle,6,202536,2025 Fall,CIS,1001
+CIS1001,Introduction to Academics in Computer Science,Kosuke Imamura,,,,,0,,,,,,202536,2025 Fall,CIS,1001
+CIS1051,Introduction to Problem Solving and Programming in Python,Tomoya Kanno,,3.5,,3,0,VGVhY2hlci0xNjcxMjgw,1671280,Yasko,Kanno,6,202536,2025 Fall,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,Negar Mohammadi Koushki,,,,,0,,,,,,202536,2025 Fall,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,Farnoush  Nilizadeh,,,,,0,,,,,,202536,2025 Fall,CIS,1051
+CIS1051,Introduction to Problem Solving and Programming in Python,Kwanjira Kaewfak,,,,,0,,,,,,202603,2026 Spring,CIS,1051
+CIS1057,Computer Programming in C,Zijie Tang,,3.6,,2.8,0,VGVhY2hlci0xOTE2MzI3,1916327,Hong,Tang,12,202536,2025 Fall,CIS,1057
+CIS1057,Computer Programming in C,Kosuke Imamura,,,,,0,,,,,,202603,2026 Spring,CIS,1057
+CIS1068,Program Design and Abstraction,Thanh P. Nguyen,,5,,1.4,0,VGVhY2hlci0zMDQyMTIx,3042121,Thanh,Nguyen,5,202603,2026 Spring,CIS,1068
+CIS1068,Program Design and Abstraction,Bo Jiang,,4.8,,2.2,0,VGVhY2hlci0yMDU3MDIz,2057023,Cheng,Jiang,18,202536,2025 Fall,CIS,1068
+CIS2033,Computational Probability and Statistics,Emily Thyrum,,4.8,,1.5,0,VGVhY2hlci0yOTQzMTQx,2943141,Emily,Thyrum,8,202536,2025 Fall,CIS,2033
+CIS2033,Computational Probability and Statistics,Johannes Middeke,,1,,5,0,VGVhY2hlci0zMTMxMjQ4,3131248,Johannes,Middeke,5,202603,2026 Spring,CIS,2033
+CIS2033,Computational Probability and Statistics,Joao Fonseca,,5,,2,0,VGVhY2hlci0zMDM1NzI5,3035729,Joao,Fonseca,2,202536,2025 Fall,CIS,2033
+CIS2107,Computer Systems and Low-Level Programming,Qi Chen,,5,,2,0,VGVhY2hlci0yNDQyMTI2,2442126,Qinying,Chen,2,202603,2026 Spring,CIS,2107
+CIS2107,Computer Systems and Low-Level Programming,Justin Y. Shi,,,,,0,,,,,,202536,2025 Fall,CIS,2107
+CIS2109,Database Management Systems,Faegheh Seifhashemi,,,,,0,,,,,,202536,2025 Fall,CIS,2109
+CIS2166,Mathematical Concepts in Computing II,Hirsa Kia,,,,,0,,,,,,202536,2025 Fall,CIS,2166
+CIS2168,Data Structures,Abdulrahman Alharbi,,,,,0,,,,,,202536,2025 Fall,CIS,2168
+CIS2168,Data Structures,Mounika R. Hospet,,,,,0,,,,,,202536,2025 Fall,CIS,2168
+CIS2168,Data Structures,Iman Qaiser,,,,,0,,,,,,202603,2026 Spring,CIS,2168
+CIS2168,Data Structures,Nan Wang,,4.9,,1.8,0,VGVhY2hlci0yMzM4MjA4,2338208,Wei,Wang,29,202536,2025 Fall,CIS,2168
+CIS3100,Containerization Technologies and Application Development,Carl Williams,,3.7,,2.4,0,VGVhY2hlci0yNzA1NTA2,2705506,Carl,Williams,9,202536,2025 Fall,CIS,3100
+CIS3100,Special Topics in CIS: Game Engine Development,Hani Karam,3.0,2.2,3.0,3.8,1,VGVhY2hlci0yNjcyMzY2,2672366,Hani,Karam,18,202603,2026 Spring,CIS,3100
+CIS3203,Introduction to Artificial Intelligence,Jeremiah Blanchard,,,,,0,,,,,,202603,2026 Spring,CIS,3203
+CIS3207,Introduction to Systems Programming and Operating Systems,Weiyi Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202536,2025 Fall,CIS,3207
+CIS3223,Data Structures and Algorithms,Johannes Middeke,1.0,1,5.0,5,6,VGVhY2hlci0zMTMxMjQ4,3131248,Johannes,Middeke,5,202603,2026 Spring,CIS,3223
+CIS3296,Software Design,Michael West,,4.7,,3.3,0,VGVhY2hlci0xNTU5Mzk2,1559396,Ashley,West,11,202536,2025 Fall,CIS,3296
+CIS3296,Software Design,Mohammad Siahkamari,,,,,0,,,,,,202536,2025 Fall,CIS,3296
+CIS3296,Software Design,Amit Khare,,,,,0,,,,,,202603,2026 Spring,CIS,3296
+CIS3309,Component-Based Software Design,Chris Tolis,,4.5,,2.8,0,VGVhY2hlci0zNjc4NTk=,367859,Chris,Tolis,24,202603,2026 Spring,CIS,3309
+CIS3319,Wireless Networks and Security,Xuanzhang Liu,,4.4,,2.2,0,VGVhY2hlci0xOTIyOTMz,1922933,Xiaochun ,Liu,5,202536,2025 Fall,CIS,3319
+CIS3342,Server-Side Web Application Development,Pramita Pandit,,,,,0,,,,,,202536,2025 Fall,CIS,3342
+CIS3515,Introduction to Mobile Application Development,Yi Qu,,,,,0,,,,,,202603,2026 Spring,CIS,3515
+CIS4296,Information Systems Analysis and Design,Thanh P. Nguyen,5.0,5,1.0,1.4,1,VGVhY2hlci0zMDQyMTIx,3042121,Thanh,Nguyen,5,202603,2026 Spring,CIS,4296
+CIS4331,Principles of Database Systems,Mohammad Siahkamari,,,,,0,,,,,,202603,2026 Spring,CIS,4331
+CIS4378,Computer and Network Security,Sanchari Biswas,4.0,4,3.0,3,1,VGVhY2hlci0yODE3MzU5,2817359,Sanchari,Biswas,1,202603,2026 Spring,CIS,4378
+CIS4517,Data-Intensive and Cloud Computing,Bowen Xu,,3.8,,2.5,0,VGVhY2hlci0xMjMzMTQ5,1233149,Kaibin,XU,8,202603,2026 Spring,CIS,4517
+CIS4526,Foundations of Machine Learning,Zhuoan Zhou,,0,,0,0,VGVhY2hlci0yNDYyNjcw,2462670,Chen,Zhou,0,202536,2025 Fall,CIS,4526
+CIS4526,Foundations of Machine Learning,Mau Hernandes,,0,,0,0,VGVhY2hlci0zMTYzMjQw,3163240,Mau,Hernandes,0,202536,2025 Fall,CIS,4526
+CIS4696,Ethical Hacking and Intrusion Forensics,Sonny J. Chang,,2.4,,3.3,0,VGVhY2hlci04NTM5OTk=,853999,Isabelle,Chang,81,202603,2026 Spring,CIS,4696
+CIS4696,Ethical Hacking and Intrusion Forensics,Derek Fisher,,4.5,,1.2,0,VGVhY2hlci0yNjM0NDEw,2634410,Derek,Fisher,6,202603,2026 Spring,CIS,4696
+CIS5002,Database Design &amp; Programming,Shelly Gupta,,0,,0,0,VGVhY2hlci0yNzk2NTcz,2796573,Shubham,Gupta,0,202536,2025 Fall,CIS,5002
+CIS5012,System Software and Operating Systems,Tamer Aldwairi,,5,,2.9,0,VGVhY2hlci0yNjE5Mzky,2619392,Tamer,Aldwairi,17,202536,2025 Fall,CIS,5012
+CIS5221,Introduction to Mobile Application Development,Karl Morris,,3.6,,3.3,0,VGVhY2hlci0xOTIyNzQ0,1922744,Karl,Morris,29,202536,2025 Fall,CIS,5221
+CIS5304,Network Technologies,Sanchari Biswas,,4,,3,0,VGVhY2hlci0yODE3MzU5,2817359,Sanchari,Biswas,1,202536,2025 Fall,CIS,5304
+CIS5511,Programming Techniques,Bowen Xu,,3.8,,2.5,0,VGVhY2hlci0xMjMzMTQ5,1233149,Kaibin,XU,8,202536,2025 Fall,CIS,5511
+CIS5516,Principles of Data Management,Farnoush  Nilizadeh,,,,,0,,,,,,202536,2025 Fall,CIS,5516
+CIS5526,Machine Learning,Vahid Mahzoon,,4.7,,3.3,0,VGVhY2hlci0yNzU4ODQ1,2758845,Vahid,Mahzoon,3,202536,2025 Fall,CIS,5526
+CIS9995,Capstone Project,Eduard C. Dragut,,3.7,,3.2,0,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,9995
+CIS9995,Capstone Project,Hongchang Gao,,3.6,,3,0,VGVhY2hlci0yNjg5NTEx,2689511,Hongchang,Gao,5,202536,2025 Fall,CIS,9995
+CIS0835,Cyberspace &amp; Society,Christopher Biehl,3.944,4.2,2.667,2.7,36,VGVhY2hlci02MjE0Mjg=,621428,Christopher,Biehl,81,202603,2026 Spring,CIS,0835
+CIS0835,Cyberspace &amp; Society,Heba ABBADI,,,,,0,,,,,,202603,2026 Spring,CIS,0835
+CIS1001,Introduction to Academics in Computer Science,Congqin Chen,,4.2,,3.1,0,VGVhY2hlci0xMDc0MTY5,1074169,Je-Wei,Chen,78,202603,2026 Spring,CIS,1001
+CIS1001,Introduction to Academics in Computer Science,Roland Sherwood,,,,,0,,,,,,202603,2026 Spring,CIS,1001
+CIS1001,Introduction to Academics in Computer Science,Heba ABBADI,,,,,0,,,,,,202603,2026 Spring,CIS,1001
+CIS1057,Computer Programming in C,Katerina Orlovskiy,,,,,0,,,,,,202603,2026 Spring,CIS,1057
+CIS1068,Program Design and Abstraction,Sai Shi,,3.2,,3.7,0,VGVhY2hlci0xMDMxNTA4,1031508,Justin Yuan,Shi,29,202603,2026 Spring,CIS,1068
+CIS1068,Program Design and Abstraction,Kwanjira Kaewfak,,,,,0,,,,,,202603,2026 Spring,CIS,1068
+CIS1166,Mathematical Concepts in Computing I,Zhuoan Zhou,,0,,0,0,VGVhY2hlci0yNDYyNjcw,2462670,Chen,Zhou,0,202603,2026 Spring,CIS,1166
+CIS1166,Mathematical Concepts in Computing I,Kwanjira Kaewfak,,,,,0,,,,,,202603,2026 Spring,CIS,1166
+CIS2033,Computational Probability and Statistics,Pei Wang,1.909,2.4,4.091,3.4,11,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,2033
+CIS2033,Computational Probability and Statistics,Nicholas Schwier,,0,,0,0,VGVhY2hlci0zMTYzMjM5,3163239,Nicholas,Schwier,0,202603,2026 Spring,CIS,2033
+CIS2107,Computer Systems and Low-Level Programming,Krishna Kant,1.5,1.9,5.0,4.9,2,VGVhY2hlci0yNTQ4Mjc3,2548277,Krishna,Kant,7,202603,2026 Spring,CIS,2107
+CIS2107,Computer Systems and Low-Level Programming,Kosuke Imamura,,,,,0,,,,,,202603,2026 Spring,CIS,2107
+CIS2109,Database Management Systems,Thanh P. Nguyen,,5,,1.4,0,VGVhY2hlci0zMDQyMTIx,3042121,Thanh,Nguyen,5,202603,2026 Spring,CIS,2109
+CIS2109,Database Management Systems,Batool Wazzan,,,,,0,,,,,,202603,2026 Spring,CIS,2109
+CIS2166,Mathematical Concepts in Computing II,Tomoya Kanno,,3.5,,3,0,VGVhY2hlci0xNjcxMjgw,1671280,Yasko,Kanno,6,202603,2026 Spring,CIS,2166
+CIS2168,Data Structures,Michael West,,4.7,,3.3,0,VGVhY2hlci0xNTU5Mzk2,1559396,Ashley,West,11,202603,2026 Spring,CIS,2168
+CIS3191,Independent Research II,Farid Nakhle,,4.7,,3,0,VGVhY2hlci0zMDEwNDMx,3010431,Farid,Nakhle,6,202603,2026 Spring,CIS,3191
+CIS3207,Introduction to Systems Programming and Operating Systems,Negar Mohammadi Koushki,,,,,0,,,,,,202603,2026 Spring,CIS,3207
+CIS3296,Software Design,Abdulrahman Alharbi,,,,,0,,,,,,202603,2026 Spring,CIS,3296
+CIS3296,Software Design,Rahad Arman Nabid,,,,,0,,,,,,202603,2026 Spring,CIS,3296
+CIS3319,Wireless Networks and Security,Weiyi Jin,,0,,0,0,VGVhY2hlci0zMTYzNTg5,3163589,Sian,Jin,0,202603,2026 Spring,CIS,3319
+CIS3342,Server-Side Web Application Development,Chris Tolis,,4.5,,2.8,0,VGVhY2hlci0zNjc4NTk=,367859,Chris,Tolis,24,202603,2026 Spring,CIS,3342
+CIS3715,Principles of Data Science,Heng Liang,,4.2,,3.1,0,VGVhY2hlci0yMTQwMDky,2140092,Yi,Liang,8,202603,2026 Spring,CIS,3715
+CIS3715,Principles of Data Science,Mau Hernandes,,0,,0,0,VGVhY2hlci0zMTYzMjQw,3163240,Mau,Hernandes,0,202603,2026 Spring,CIS,3715
+CIS4282,Independent Study,Derek Fisher,,4.5,,1.2,0,VGVhY2hlci0yNjM0NDEw,2634410,Derek,Fisher,6,202603,2026 Spring,CIS,4282
+CIS4345,Introduction to Cloud Computing,Faegheh Seifhashemi,,,,,0,,,,,,202603,2026 Spring,CIS,4345
+CIS4378,Computer and Network Security,Mohammad Siahkamari,,,,,0,,,,,,202603,2026 Spring,CIS,4378
+CIS4398,Projects in Computer Science,ELMIRA TALEBIANARAKI,,,,,0,,,,,,202603,2026 Spring,CIS,4398
+CIS4398,Projects in Computer Science,Hirsa Kia,,,,,0,,,,,,202603,2026 Spring,CIS,4398
+CIS4496,Projects in Data Science,Nancy Polychronopoulou,,2.2,,3.2,0,VGVhY2hlci0yNjg0MjUz,2684253,Nancy,Polychronopoulou,37,202603,2026 Spring,CIS,4496
+CIS4496,Projects in Data Science,Ali Ansari,,,,,0,,,,,,202603,2026 Spring,CIS,4496
+CIS4515,Advanced Mobile Application Development,Zijie Tang,,3.6,,2.8,0,VGVhY2hlci0xOTE2MzI3,1916327,Hong,Tang,12,202603,2026 Spring,CIS,4515
+CIS4523,Knowledge Discovery and Data Mining,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,4523
+CIS4523,Knowledge Discovery and Data Mining,Hussain Otudi,,,,,0,,,,,,202603,2026 Spring,CIS,4523
+CIS4526,Foundations of Machine Learning,Heng Liang,,4.2,,3.1,0,VGVhY2hlci0yMTQwMDky,2140092,Yi,Liang,8,202603,2026 Spring,CIS,4526
+CIS5017,Operating Systems and Architecture,Emily Thyrum,,4.8,,1.5,0,VGVhY2hlci0yOTQzMTQx,2943141,Emily,Thyrum,8,202603,2026 Spring,CIS,5017
+CIS5107,Computer Systems Security and Privacy,Sanchari Biswas,,4,,3,0,VGVhY2hlci0yODE3MzU5,2817359,Sanchari,Biswas,1,202603,2026 Spring,CIS,5107
+CIS5274,Software Quality Assurance and Testing,David Benson,,4.1,,3.5,0,VGVhY2hlci0xNjA4MTY1,1608165,Keesha,Benson,15,202603,2026 Spring,CIS,5274
+CIS5415,Ethical Hacking and Intrusion Forensics,Derek Fisher,,4.5,,1.2,0,VGVhY2hlci0yNjM0NDEw,2634410,Derek,Fisher,6,202603,2026 Spring,CIS,5415
+CIS5515,Design and Analysis of Algorithms,Yihan Zhang,,2.8,,3.5,0,VGVhY2hlci0yMDkwNjQ3,2090647,Yimin,Zhang,4,202603,2026 Spring,CIS,5515
+CIS5523,Knowledge Discovery and Data Mining,Zoran Obradovic,,5,,4,0,VGVhY2hlci0yNDM3ODk0,2437894,Zoran,Obradovic,1,202603,2026 Spring,CIS,5523
+CIS5523,Knowledge Discovery and Data Mining,Shelly Gupta,,0,,0,0,VGVhY2hlci0yNzk2NTcz,2796573,Shubham,Gupta,0,202603,2026 Spring,CIS,5523
+CIS5528,Predictive Modeling in Biomedicine,Tan Long Nguyen,,5,,1.4,0,VGVhY2hlci0zMDQyMTIx,3042121,Thanh,Nguyen,5,202603,2026 Spring,CIS,5528
+CIS5543,Computer Vision,Longin J. Latecki,,3.2,,3,0,VGVhY2hlci0xMTM0OTQ1,1134945,Longin Jan,Latecki,23,202603,2026 Spring,CIS,5543
+CIS5543,Computer Vision,Aayush Acharya,,,,,0,,,,,,202603,2026 Spring,CIS,5543
+CIS5590,Topics in Computer Science&quot;/ &quot;Information Retrieval&quot;.,Eduard C. Dragut,5.0,3.7,2.0,3.2,1,VGVhY2hlci0yMDA1OTk4,2005998,Eduard,Dragut,10,202603,2026 Spring,CIS,5590
+CIS5590,GPU Architecture and Programming,Ke Fan,,,,,0,,,,,,202603,2026 Spring,CIS,5590
+CIS9182,Independent Study,Derek Fisher,,4.5,,1.2,0,VGVhY2hlci0yNjM0NDEw,2634410,Derek,Fisher,6,202603,2026 Spring,CIS,9182
+CIS9995,Capstone Project,Pei Wang,,2.4,,3.4,0,VGVhY2hlci05OTExNzI=,991172,Pei,Wang,22,202603,2026 Spring,CIS,9995
+CIS9995,Capstone Project,Xinghua Mindy Shi,,0,,0,0,VGVhY2hlci0zMDAwNjUz,3000653,Xinghua ,Shi,0,202603,2026 Spring,CIS,9995
